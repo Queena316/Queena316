@@ -1,0 +1,6 @@
+{
+  "name": "甜點疊疊樂",
+  "description": "點擊放下鐘擺懸掛的蛋糕，精準對齊並消去多餘部分，挑戰疊出最高甜點塔的 2D 休閒遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
